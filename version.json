@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "summary": "First numbered release.",
+  "download": "https://github.com/crockerfilm/aws-static-recompose/releases/download/v1.0.0/AWS-Static-Recompose-plugin.zip",
+  "history": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-30",
+      "summary": "First numbered release.",
+      "notes": [
+        "Resize one design into every empty size frame in its section, with pass / review / blocked checks on every size.",
+        "Localize: linked language versions of the finished sizes, with a content editor for texts and images.",
+        "Export PNGs, a validation report and a review sheet, for English and for each language.",
+        "The panel shows its version and says when a newer one is out."
+      ]
+    }
+  ]
+}
